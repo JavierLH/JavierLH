@@ -2,7 +2,7 @@
 <div align="center">
   <h1><strong>Hi there, I´m <a href="">Javi 🐯</a> 👋🏽</strong></h1>
   <!-- <img src="https://user-images.githubusercontent.com/112488911/232362540-6f0e771f-b72b-4ba1-bab2-97b4771f9ec7.png"> -->
-  <img src="https://fs.buttercms.com/resize=width:885/x3KGHadAQV2oPzNJINOp">
+  <img src="https://github.com/JavierLH/JavierLH/assets/91098390/ce8e2a0c-c808-41df-b74c-6dd278f2cb73">
 </div>
 <br>
 
