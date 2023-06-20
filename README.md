@@ -11,7 +11,7 @@
 - 🌎 I´m from Mexico. Xalapa, Ver.
 - 👨🏻‍🎓 I´m Studying computer technologies
 
-##  Programming Languages, Frontend/Backend Development and tools👨🏽‍💻
+##  Programming Languages, Frontend/Backend Development, tools and more👨🏽‍💻
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,c,cpp,css,django,docker,firebase,python,tailwind,git,github,laravel,gradle,html,java,js,kotlin,linux,mongodb,mysql,nginx,nodejs,php,postman,react,spring,sqlite,stackoverflow,vscode&perline=10&theme=light" />
