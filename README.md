@@ -9,7 +9,6 @@
 ##  🐯 About me 
 - 👨🏽‍💻 Software developer
 - 🌎 I´m from Mexico. Xalapa, Ver.
-- 👨🏻‍🎓 I´m Studying computer technologies
 
 ##  Programming Languages, Frontend/Backend Development, tools and more👨🏽‍💻
 <p align="center">
